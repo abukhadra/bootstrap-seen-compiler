@@ -1,0 +1,19 @@
+() -> {
+    { name: "bootsrap-seen-compiler" }
+}
+
+rs() -> {
+    {
+        deps: [
+            { id: "clap",           v: "4.1.8",         f: ["derive"]   }, 
+            { id: "derive",         v: "1.0.0"                          }, 
+            { id: "env_logger",     v: "0.10.0"                         }, 
+            { id: "features",       v: "0.10.0"                         }, 
+            { id: "indoc",          v: "2.0.1"                          }, 
+            { id: "log",            v: "0.4.17"                         }, 
+            { id: "regex",          v: "1.7.2"                          }, 
+            { id: "serde",          v: "1.0.156",       f: ["derive"]   },
+            { id: "tap",            v: "1.0.1"                          }
+        ]
+    }
+}
