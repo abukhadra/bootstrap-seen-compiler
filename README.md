@@ -1,6 +1,6 @@
 # bootstrap-seen-compiler
 
-porting the compiler from rust to seen.
+Porting the compiler from rust to seen.
 
 ## Status
 The current compiler is written in rust, `seen` is capable of importing rust modules, <br>
@@ -10,9 +10,10 @@ New compiler features that are required to finish the bootsrapping process will 
 
 
 ## Building from source
-- obtain a copy of the `seen` compiler / editor, follow instructions in the `seen` repository readme file : [Building from source](https://github.com/abukhadra/seen#building-from-source)
-- get a copy of the bootsrap-seen-compiler  
+- Obtain a copy of the `seen` compiler / editor, follow instructions in the `seen` repository readme file : [Building from source](https://github.com/abukhadra/seen#building-from-source)
+- Get a copy of the bootsrap-seen-compiler  
 ```
     git clone https://github.com/abukhadra/bootstrap-seen-compiler.git
 ```
-- open the `bootsrap-seen-compiler` project using the `seen` editor , then click on build
+- Open the `bootsrap-seen-compiler` project using the `seen` editor , then click on `build`
+- You can find binary under `/../bootsrap-seen-compiler/build/bootsrap-seen-compiler/target/debug/bootsrap-seen-compiler`
