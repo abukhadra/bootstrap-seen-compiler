@@ -16,4 +16,4 @@ New compiler features that are required to finish the bootsrapping process will 
     git clone https://github.com/abukhadra/bootstrap-seen-compiler.git
 ```
 - Open the `bootsrap-seen-compiler` project using the `seen` editor , then click on `build`
-- You can find binary under `/../bootsrap-seen-compiler/build/bootsrap-seen-compiler/target/debug/bootsrap-seen-compiler`
+- binary location:  `/../bootsrap-seen-compiler/build/bootsrap-seen-compiler/target/debug/bootsrap-seen-compiler`
